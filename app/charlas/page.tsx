@@ -10,8 +10,8 @@ export default function CharlasPage() {
       </main>
 
       {/* Credits - Hidden in bottom right */}
-      <div className="fixed bottom-2 right-2 z-10">
-        <p className="text-gray-400 text-xs">
+      <div className="fixed bottom-1 sm:bottom-2 right-1 sm:right-2 z-10">
+        <p className="text-gray-400 text-[10px] sm:text-xs">
           Lucas Garbate, Milena Parysaw, Rocio Casares
         </p>
       </div>

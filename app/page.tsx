@@ -17,11 +17,11 @@ export default function Home() {
   }, [router]);
 
   return (
-    <div className="min-h-screen bg-white flex items-center justify-center overflow-hidden">
+    <div className="min-h-screen bg-white flex items-center justify-center overflow-hidden px-4">
       <div className="relative">
         {/* Main Title with Animation */}
         <h1 
-          className={`text-8xl md:text-9xl font-bold text-gray-900 tracking-tight transition-all duration-1000 ${
+          className={`text-5xl sm:text-6xl md:text-8xl lg:text-9xl font-bold text-gray-900 tracking-tight transition-all duration-1000 ${
             isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
           }`}
         >
@@ -57,10 +57,10 @@ export default function Home() {
       </div>
 
       {/* Credits */}
-      <div className={`absolute bottom-4 left-1/2 transform -translate-x-1/2 transition-all duration-1000 delay-700 ${
+      <div className={`absolute bottom-4 left-1/2 transform -translate-x-1/2 transition-all duration-1000 delay-700 px-4 w-full ${
         isVisible ? 'opacity-100' : 'opacity-0'
       }`}>
-        <p className="text-gray-500 text-sm text-center">
+        <p className="text-gray-500 text-xs sm:text-sm text-center">
           Hecho por Lucas Garbate, Milena Parysaw y Rocio Casares
         </p>
       </div>
