@@ -3,195 +3,502 @@
     "titulo": "Syngap1",
     "descripcion": "Vinieron a ORT Valeria Torcetta y Fernanda Caparrós, presidenta y vicepresidenta de la Fundación Syngap1 Argentina. Syngap1 es un trastorno genético raro causado por una variante en el gen Syngap1, descubierto en Canadá en 2009. Este gen está ubicado en el cromosoma 6 y es responsable de producir la proteína SynGAP, fundamental para la comunicación entre neuronas en las sinapsis. Cuando hay una mutación en este gen, no se produce suficiente proteína, lo que dificulta la comunicación neuronal efectiva y conduce a problemas neurológicos como discapacidad intelectual, epilepsia, trastorno del espectro autista, hipotonía, retrasos en el habla y en las habilidades motoras. La fundación fue creada por familias argentinas cuyos hijos recibieron este diagnóstico, siendo Charo Rodríguez la primera paciente diagnosticada en Latinoamérica en 2017, a los 4 años. En 2024, se convirtió en embajadora latinoamericana del Día de las Enfermedades Raras. Actualmente hay alrededor de 15 casos diagnosticados en Argentina, aunque se estima que hay muchos más sin diagnosticar, ya que la incidencia es de 1 a 4 de cada 10.000 personas, representando el 1-2% de todos los casos de discapacidad intelectual. El diagnóstico se realiza mediante secuenciación del exoma completo, un estudio genético que antes era inaccesible pero que ahora puede realizarse en el Hospital Garrahan de forma pública. No tiene cura ni tratamiento específico (es una enfermedad huérfana), pero hay investigaciones en curso sobre terapia génica en Estados Unidos, España y Canadá, lideradas por científicos como el argentino Dr. Marcelo Coba en USC. Los pacientes responden bien a terapias alternativas como hidroterapia, musicoterapia y equinoterapia. La fundación trabaja en difusión, búsqueda de diagnósticos, apoyo a familias y promoción de investigación científica, participando en estudios internacionales como el del Hospital de Niños de Filadelfia. Lo que más me impactó es ver cómo familias enfrentando una situación tan dura no solo buscan respuestas para sus hijos, sino que crean toda una red de apoyo para otros. Es inspirador cómo transformaron el dolor en acción colectiva, y me hace pensar en cuántas otras enfermedades raras están ahí afuera esperando ser diagnosticadas.",
     "reflexion": "La charla fue interesante, aunque hubiese sido útil que mencionaran más problemas concretos del día a día para poder ayudar mejor desde el proyecto.",
-    "preguntas": [
-      "¿Cuáles son los desafíos más grandes en el día a día de las familias con Syngap1?",
-      "¿Qué apoyos tecnológicos podrían mejorar la calidad de vida?",
-      "¿Cómo se puede facilitar el diagnóstico temprano?",
-      "¿Qué recursos faltan para las familias argentinas?"
-    ],
     "linkedin": "https://ar.linkedin.com/in/syngap1-argentina-382156240",
     "instagram": "https://www.instagram.com/syngap1.argentina/",
-    "web": "https://syngap1.com.ar/"
+    "web": "https://syngap1.com.ar/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Cuáles son los desafíos más grandes en el día a día de las familias con Syngap1?",
+        "respuesta": "las familias tienen q manejar las crisi y terapias todo los dias"
+      },
+      {
+        "pregunta": "¿Qué apoyos tecnológicos podrían mejorar la calidad de vida?",
+        "respuesta": "apps para seguir epilepcia y cosas de comunicacion"
+      },
+      {
+        "pregunta": "¿Cómo se puede facilitar el diagnóstico temprano?",
+        "respuesta": "haciendo mas facil el estudio del exoma en hospitales publicos"
+      },
+      {
+        "pregunta": "¿Qué recursos faltan para las familias argentinas?",
+        "respuesta": "falta mas apoyo de obras sociales y grupos de contencion"
+      }
+    ]
   },
   {
     "titulo": "Mercado Inclusivo",
     "descripcion": "Nicole Nagelkop (terapista ocupacional) y Martina Vih (emprendedora) presentaron Mercado Inclusivo, una plataforma e-commerce fundada en 2021 que reúne emprendimientos de personas con discapacidad para favorecer su inclusión laboral. El proyecto nace de una realidad cruda: en Argentina solo el 26-30% de las personas con discapacidad acceden a un trabajo, debido a múltiples barreras actitudinales (prejuicios sociales), físicas (accesibilidad arquitectónica), y sensoriales. Mercado Inclusivo nuclea actualmente 27 emprendimientos de todo el país (Capital Federal, Gran Buenos Aires, Quilmes, Moreno, Bernal, Trelew, Santa Fe y otras provincias), ofreciendo una tienda online donde se comercializan productos de calidad con valor social agregado. El proyecto no cobra ningún costo a los emprendedores y ofrece servicios integrales: plataforma de ventas online, logística de envíos, desarrollo de regalos corporativos para empresas, organización de ferias presenciales, y difusión de los emprendimientos. Han participado en eventos importantes como el festejo navideño de Fleni. El mensaje central es claro: no se trata de caridad ni de comprar por lástima, sino de reconocer el valor comercial real de productos hechos por personas con discapacidad. Mercado Inclusivo promueve la autonomía económica a través del emprendedurismo, especialmente para personas con grandes necesidades de apoyo, y busca romper el estigma de que las personas con discapacidad no pueden crear productos lindos y valiosos. Están abiertos a recibir nuevos emprendedores de todo el país sin costo alguno. Me pareció increíble cómo plantean el emprendedurismo como una vía concreta de inclusión laboral, no como un plan B sino como una opción válida y digna. Lo que más me resonó fue cuando dijeron 'Ah! Pero son lindos!' y ese 'pero' que les hace ruido, porque efectivamente muestra los prejuicios que todavía existen.",
     "reflexion": "La charla fue interesante y sorpresiva. Hubiese estado bueno que expliquen más sobre cómo contactan a los emprendedores y cómo escalan el proyecto.",
-    "preguntas": [
-      "¿Cómo identifican y contactan nuevos emprendedores?",
-      "¿Qué estrategias usan para escalar sin perder la esencia?",
-      "¿Cómo miden el impacto social del proyecto?",
-      "¿Qué barreras encuentran al trabajar con empresas?"
-    ],
     "linkedin": "https://ar.linkedin.com/in/nicolenagelkop",
     "instagram": "https://www.instagram.com/mercado.inclusivo/",
-    "web": "https://mercadoinclusivo.com.ar/"
+    "web": "https://mercadoinclusivo.com.ar/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Cómo identifican y contactan nuevos emprendedores?",
+        "respuesta": "por redes sociales y organizasiones de discapacidad"
+      },
+      {
+        "pregunta": "¿Qué estrategias usan para escalar sin perder la esencia?",
+        "respuesta": "mantienen todo gratis para los emprendedores y trabajan con empresas"
+      },
+      {
+        "pregunta": "¿Cómo miden el impacto social del proyecto?",
+        "respuesta": "cuentan las ventas y cuantos emprendedores estan activos"
+      },
+      {
+        "pregunta": "¿Qué barreras encuentran al trabajar con empresas?",
+        "respuesta": "los prejuisios de que los productos no son buenos"
+      }
+    ]
   },
   {
     "titulo": "ASDRA",
     "descripcion": "ASDRA (Asociación Síndrome de Down de la República Argentina) es una asociación civil sin fines de lucro y de bien público fundada el 8 de agosto de 1988 por un grupo de madres y padres de personas con síndrome de Down para mejorar la calidad de vida de sus hijos. Con más de 36 años de trayectoria, se ha consolidado como referente nacional en inclusión y defensa de derechos. ASDRA nuclea a familiares sobre la base de entender que comparten una misma realidad, tienen los mismos intereses y que el destino de sus hijos estará signado por lo que hagan o dejen de hacer como sociedad. La organización trabaja en varios ejes fundamentales: asesoramiento y acompañamiento a familias (más de 328 consultas anuales), promoción de la inclusión en salud y atención temprana, inclusión educativa, inclusión laboral, promoción de vida independiente, y participación comunitaria. Desarrollan programas específicos como el Programa de Vida Independiente, grupos de apoyo por edades (Anidando para embarazos, Jugando 4-6 años, Caminando 2-4 años, Creciendo 13-17 años, Eligiendo mayores de 25 años), y el servicio 'Papás y Mamás Escucha'. ASDRA es miembro fundador de la Red Argentina T21 y de FIADOWN, y promueve activamente el cumplimiento de la Convención Internacional sobre los Derechos de las Personas con Discapacidad, ratificada por Argentina en 2008. Según datos de su propia encuesta de 2013, más del 50% de los niños con síndrome de Down en familias vinculadas a ASDRA asisten a escuelas comunes, y un porcentaje similar de la población económicamente activa tiene o tuvo un empleo, demostrando que con apoyo familiar y social comprometido, la inclusión es posible. Actualmente enfrentan desafíos importantes debido a la falta de actualización del nomenclador nacional desde noviembre 2024 y atrasos en pagos de obras sociales, poniendo en emergencia el sistema de prestaciones. Lo que más valoro de ASDRA es que llevan casi 40 años trabajando sin parar, y que construyeron toda una red nacional con otras organizaciones. Me parece que son el ejemplo perfecto de cómo la organización colectiva de familias puede cambiar realmente las cosas a largo plazo.",
     "reflexion": "Muy informativa la charla. Sería útil profundizar en casos concretos de inclusión laboral exitosa para entender mejor las estrategias.",
-    "preguntas": [
-      "¿Cuáles son las principales barreras para la inclusión laboral?",
-      "¿Qué programas de capacitación ofrecen a las familias?",
-      "¿Cómo trabajan la autonomía desde temprana edad?",
-      "¿Qué tecnologías recomiendan para apoyar el aprendizaje?"
-    ],
     "linkedin": "https://ar.linkedin.com/company/asdra",
     "instagram": "https://www.instagram.com/asdra_sindromededown/",
-    "web": "https://www.asdra.org.ar/"
+    "web": "https://www.asdra.org.ar/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Cuáles son las principales barreras para la inclusión laboral?",
+        "respuesta": "con contencion emocional y informacion actualizada"
+      },
+      {
+        "pregunta": "¿Qué programas de capacitación ofrecen a las familias?",
+        "respuesta": "creencias de q no pueden aprender ni trabajar"
+      },
+      {
+        "pregunta": "¿Cómo trabajan la autonomía desde temprana edad?",
+        "respuesta": "con maestros integradores y ajustes razonables"
+      },
+      {
+        "pregunta": "¿Qué tecnologías recomiendan para apoyar el aprendizaje?",
+        "respuesta": "programas de formacion laboral y viviendas asistidas"
+      }
+    ]
   },
   {
     "titulo": "DeUna",
     "descripcion": "Ivan Davidovich, ex alumno de ORT y CEO de DeUna, vino a compartir su experiencia con Comunicación Alternativa y Aumentativa (CAA). Iván tiene 25 años y nació con parálisis cerebral debido a una hipoxia al nacer, lo que le impide hablar de forma oral. Sin embargo, a través de la CAA ha encontrado su voz. Utiliza un dispositivo Tobii Dynavox que controla con sus ojos para comunicarse, escribir y expresarse plenamente. Su historia es inspiradora: fue abanderado de ORT en 2017, y los docentes destacaron que él se ganó ese lugar por mérito propio. Su trayectoria con la CAA comenzó explorando múltiples sistemas: pastillero con letras como teclado, botones con frases grabadas, joystick de Nintendo adaptado, tablet con vincha que movía con la cabeza, hasta que descubrió que podía usar su nariz para manejar la pantalla. Aprendió a leer y escribir letra por letra, palabra por palabra. La CAA (Comunicación Aumentativa y Alternativa) son formas de comunicación cuando no se puede hablar con la voz o se necesita apoyo para hacerlo, similar a cuando mandamos un emoji por WhatsApp o un audio en lugar de escribir. Puede ser aumentativa (complementa el habla existente) o alternativa (sustituye totalmente el habla). Iván fundó DeUna, su agencia multimedial con misión comunitaria, para construir puentes comunicativos y tecnológicos que permitan a cada persona encontrar su voz. Trabaja dando charlas, creando recursos accesibles, desarrollando soluciones tecnológicas, capacitando equipos y acompañando familias y profesionales en todo el país. Su proyecto más concreto fue implementar sistemas CAA en hoteles: diseñaron menús con pictogramas (imágenes ilustrativas de platos), menús con audio descriptivo para personas con dificultades visuales o de comprensión, y tableros de comunicación con símbolos para que cualquier persona pueda señalar y comunicar necesidades básicas. El proceso incluye diagnóstico de accesibilidad, adaptación según cada espacio, capacitación del personal, y acompañamiento continuo. Su meta: que nadie quede excluido en ningún ámbito y que algún día pueda ir solo a un restaurante. Iván me voló la cabeza. Ver cómo alguien que no puede hablar se convirtió en una voz tan potente para otros que tampoco pueden, es de esas cosas que te cambian la perspectiva. Me quedó grabado cuando dijo que sabe lo que es estar en silencio teniendo tanto para decir.",
     "reflexion": "La charla fue muy enriquecedora, aunque sería útil que los invitados cuenten más problemáticas específicas para poder ayudarlos con el proyecto final.",
-    "preguntas": [
-      "¿Qué espacios públicos deberían tener CAA prioritariamente?",
-      "¿Cómo se puede hacer más accesible la tecnología Tobii?",
-      "¿Qué desafíos enfrentan al implementar sistemas en hoteles?",
-      "¿Qué otros sectores podrían beneficiarse de CAA?"
-    ],
     "linkedin": "https://www.linkedin.com/in/agencia-deuna-12046a2a3/",
     "instagram": "https://www.instagram.com/ivan.davi29/",
-    "web": "https://ivandavidovich.com.ar/"
+    "web": "https://ivandavidovich.com.ar/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué espacios públicos deberían tener CAA prioritariamente?",
+        "respuesta": "hospitales cines y restaurantes deberian tener CAA"
+      },
+      {
+        "pregunta": "¿Cómo se puede hacer más accesible la tecnología Tobii?",
+        "respuesta": "haciendo el tobii mas barato o dando subsidios"
+      },
+      {
+        "pregunta": "¿Qué desafíos enfrentan al implementar sistemas en hoteles?",
+        "respuesta": "capacitar al personal y hacer menus con pictogramas"
+      },
+      {
+        "pregunta": "¿Qué otros sectores podrían beneficiarse de CAA?",
+        "respuesta": "educacion transporte y salud necesitan CAA"
+      }
+    ]
   },
   {
     "titulo": "Salidas Inclusivas",
     "descripcion": "ONG fundada por Gabriela Leoni Olivera (psicóloga especializada) y otras profesionales que crea espacios accesibles para personas neurodivergentes, especialmente con Trastorno del Espectro Autista (TEA). Su trabajo pionero más visible son las 'funciones distendidas' en cines y teatros, una experiencia de entretenimiento sutilmente adaptada a las necesidades de personas con hipersensibilidad sensorial. Las funciones distendidas incluyen: volumen suavizado durante toda la proyección, iluminación tenue en lugar de oscuridad total, flexibilidad para entrar y salir de la sala, libertad de movimiento dentro del espacio, salas parcialmente ocupadas para mayor comodidad, permiso para usar dispositivos de regulación sensorial (auriculares, juguetes sensoriales, anteojos de sol), y áreas de regulación sensorial donde retirarse si es necesario. Desde 2023, trabajan en colaboración con Disney y la cadena Cinemark-Hoyts en Argentina, logrando expandir estas funciones a nivel comercial. Han realizado más de 60 funciones inclusivas de películas como La Sirenita, Elementos, Lilo & Stitch, Elio y Mufasa, impactando a más de 300.000 personas en cines y teatros de todo el país, incluyendo provincias como Mendoza. Además de funciones de cine, desarrollan herramientas prácticas: menús con pictogramas para restaurantes, señalética especial para espacios, guías descargables gratuitas con instrucciones paso a paso para que cualquier establecimiento pueda implementar funciones distendidas. Utilizan tecnología de Microsoft Azure para democratizar el acceso a estos recursos. También trabajan en accesibilidad cognitiva, que consiste en crear entornos fáciles de comprender para todas las personas, favoreciendo su autonomía. Han presentado proyectos de ley en el Senado proponen do: menús con pictogramas obligatorios en comercios gastronómicos, 'hora silenciosa' en supermercados, y funciones distendidas en todos los teatros y cines del país. Su visión ideal: que las funciones distendidas sean una opción más de la cartelera, siempre disponibles. Me encanta el enfoque práctico que tienen. No se quedaron en la teoría de 'hay que ser más inclusivos', sino que fueron y crearon soluciones concretas que están cambiando la realidad de miles de familias que nunca habían podido ir al cine juntas.",
     "reflexion": "Inspiradora su forma de crear espacios realmente inclusivos. Hubiese sido interesante conocer más sobre los desafíos de implementación.",
-    "preguntas": [
-      "¿Cómo convencen a cines y teatros de hacer funciones distendidas?",
-      "¿Qué adaptaciones sensoriales son más efectivas?",
-      "¿Cómo capacitan al personal de los espacios?",
-      "¿Qué otros tipos de espacios deberían ser más inclusivos?"
-    ],
     "linkedin": "https://www.linkedin.com/in/salidas-inclusivas-886090199/",
     "instagram": "https://www.instagram.com/salidasinclusivas/",
-    "web": "https://www.salidasinclusivas.com/"
+    "web": "https://www.salidasinclusivas.com/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Cómo convencen a cines y teatros de hacer funciones distendidas?",
+        "respuesta": "mostrando q genera ganancias y no es solo caridad"
+      },
+      {
+        "pregunta": "¿Qué adaptaciones sensoriales son más efectivas?",
+        "respuesta": "volumen bajo iluminacion suave y libertad de movimiento"
+      },
+      {
+        "pregunta": "¿Cómo capacitan al personal de los espacios?",
+        "respuesta": "con talleres para q entiendan las necesidades sensoriales"
+      },
+      {
+        "pregunta": "¿Qué otros tipos de espacios deberían ser más inclusivos?",
+        "respuesta": "supermercados hospitales y eventos publicos"
+      }
+    ]
   },
   {
     "titulo": "Fundación Noemi Frida Kraut",
     "descripcion": "Vinieron Fiorella Ramos, Emilia Baccaro y Leo Sinisi a explicar sobre la esclerosis múltiple (EM) y la misión de la fundación. La esclerosis múltiple es una enfermedad autoinmune crónica del sistema nervioso central que afecta el cerebro y la médula espinal. Se produce cuando el sistema inmunológico ataca por error la mielina, el recubrimiento protector de las fibras nerviosas, lo que interfiere con la comunicación entre el cerebro y el resto del cuerpo. Los síntomas varían ampliamente según la ubicación de las lesiones: fatiga extrema, problemas de visión, dificultades de movilidad y coordinación, debilidad muscular, problemas cognitivos, y en casos avanzados puede llevar a discapacidad significativa. La EM suele diagnosticarse entre los 20 y 40 años, afectando principalmente a mujeres jóvenes. En Argentina hay miles de personas diagnosticadas, aunque las estadísticas exactas varían. La fundación Noemi Frida Kraut fue creada para dar apoyo integral a personas con EM y sus familias, promover la investigación, facilitar el acceso a tratamientos, brindar contención emocional, y generar conciencia social sobre la enfermedad. Trabajan en la difusión de información actualizada, apoyo psicológico para pacientes y familias, conexión con profesionales especializados, y defensa de derechos de las personas con EM. Leonardo Sinisi, quien forma parte de la fundación, es un profesional comprometido con la causa y trabaja activamente en la difusión y el apoyo a afectados. La esclerosis múltiple es una enfermedad impredecible, con diferentes tipos (recurrente-remitente, primaria progresiva, secundaria progresiva), y aunque no tiene cura, existen tratamientos que pueden modificar su curso y mejorar la calidad de vida. El diagnóstico temprano es crucial para comenzar tratamientos oportunamente y ralentizar la progresión. Me quedé pensando en lo difícil que debe ser vivir con una enfermedad tan impredecible, donde un día podés estar bien y al otro no sabés qué va a pasar. La fundación hace una labor enorme al contener a las familias en medio de tanta incertidumbre.",
     "reflexion": "La charla fue buena, aunque faltó mayor claridad sobre cómo ayudar concretamente a quienes padecen esclerosis múltiple.",
-    "preguntas": [
-      "¿Qué necesidades tecnológicas tienen las personas con EM?",
-      "¿Cómo se puede mejorar el acceso a tratamientos?",
-      "¿Qué herramientas facilitan la vida cotidiana?",
-      "¿Qué rol puede tener la tecnología en el diagnóstico temprano?"
-    ],
     "linkedin": "https://www.linkedin.com/in/leonardosinisi/",
     "instagram": "https://www.instagram.com/fundacionnfkraut/",
-    "web": "https://www.nfkraut.org/"
+    "web": "https://www.nfkraut.org/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué necesidades tecnológicas tienen las personas con EM?",
+        "respuesta": "apps de seguimiento de sintomas y telemedicina"
+      },
+      {
+        "pregunta": "¿Cómo se puede mejorar el acceso a tratamientos?",
+        "respuesta": "programas de empleo adaptado y acceso a transporte"
+      },
+      {
+        "pregunta": "¿Qué herramientas facilitan la vida cotidiana?",
+        "respuesta": "bastones inteligentes sillas adaptadas y apps de movilidad"
+      },
+      {
+        "pregunta": "¿Qué rol puede tener la tecnología en el diagnóstico temprano?",
+        "respuesta": "analisis de datos de sintomas para detectar patron temprano"
+      }
+    ]
   },
   {
     "titulo": "ORY Asociación Civil",
     "descripcion": "Organización sin fines de lucro fundada en 1986 que acompaña a personas adultas con discapacidad intelectual leve y moderada. Ofrece talleres ocupacionales, actividades recreativas, deportivas y de inclusión comunitaria, trabajo en grupos reducidos, y acompañamiento en trayectorias de vida. Se basa en el modelo social de la discapacidad, que entiende que la discapacidad no está en la persona sino en las barreras que la sociedad impone. Este modelo contrasta con el modelo médico tradicional que ve la discapacidad como un problema individual a 'curar'. ORY promueve la autonomía, la autodeterminación y la participación activa en la comunidad de sus participantes. Desarrollan proyectos de inclusión laboral, actividades culturales, salidas recreativas, y espacios de encuentro y socialización. Trabajan desde una perspectiva de derechos, promoviendo que las personas con discapacidad intelectual sean ciudadanos plenos, con voz propia y capacidad de decisión sobre sus vidas. La organización cuenta con un equipo interdisciplinario de profesionales (psicólogos, trabajadores sociales, terapistas ocupacionales, etc.) que acompañan los procesos individuales y grupales. ORY es un espacio donde las personas pueden desarrollar habilidades, construir vínculos significativos, y participar activamente en la vida comunitaria. Promueven la inserción en espacios públicos, el uso del transporte, la participación en actividades culturales y deportivas, y el desarrollo de proyectos laborales adaptados. Con casi 40 años de trayectoria, se ha consolidado como un referente en el trabajo con personas adultas con discapacidad intelectual en Argentina. Su enfoque no es asistencialista sino promotor de la autonomía y la vida independiente dentro de las posibilidades de cada persona. Me gusta mucho que trabajen desde el modelo social de la discapacidad, porque rompe con esa idea de que la persona es 'el problema'. Son años de trabajo sostenido acompañando a adultos, que es una población que a veces queda más invisible que los niños.",
     "reflexion": "Interesante el enfoque del modelo social. Sería valioso conocer más sobre las actividades concretas y cómo miden el impacto.",
-    "preguntas": [
-      "¿Qué tipo de talleres tienen mayor impacto en la autonomía?",
-      "¿Cómo integran la tecnología en sus actividades?",
-      "¿Qué desafíos enfrentan las personas al finalizar los talleres?",
-      "¿Cómo trabajan la transición al mundo laboral?"
-    ],
     "linkedin": "https://ar.linkedin.com/company/ory-asociacion-civil",
     "instagram": "https://www.instagram.com/oryasociacioncivil/",
-    "web": "https://oryasociacioncivil.com.ar/"
+    "web": "https://oryasociacioncivil.com.ar/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué tipo de talleres tienen mayor impacto en la autonomía?",
+        "respuesta": "talleres de habilidades sociales y autonomia personal"
+      },
+      {
+        "pregunta": "¿Cómo integran la tecnología en sus actividades?",
+        "respuesta": "usan tablets y apps educativas adaptadas"
+      },
+      {
+        "pregunta": "¿Qué desafíos enfrentan las personas al finalizar los talleres?",
+        "respuesta": "la reintegracion a la familia y busqueda de empleo"
+      },
+      {
+        "pregunta": "¿Cómo trabajan la transición al mundo laboral?",
+        "respuesta": "con practicas en empresas y acompañamiento continuo"
+      }
+    ]
   },
   {
     "titulo": "Inclusión Escolar – ORT",
     "descripcion": "Charla del Lic. Daniel Levy y la Lic. Romina Rajchnudel sobre inclusión escolar en ORT. Explicaron cómo la institución adapta contenidos y acompaña trayectorias educativas para estudiantes con discapacidades, diferenciando claramente los conceptos de inclusión e integración. La integración implica que el estudiante debe adaptarse al sistema educativo existente, mientras que la inclusión significa que el sistema se adapta para recibir a todos los estudiantes. ORT trabaja desde el paradigma de la inclusión, entendiendo que la diversidad enriquece el aprendizaje de todos. Desarrollan adaptaciones curriculares, adecuaciones metodológicas, apoyos específicos según cada necesidad, trabajo conjunto entre docentes de aula y profesionales de inclusión, y capacitación continua a docentes. El equipo de inclusión acompaña estudiantes con diversas condiciones: discapacidad intelectual, trastornos del aprendizaje, TEA, discapacidades sensoriales, entre otras. Se trabaja de forma personalizada, elaborando Proyectos Pedagógicos Individuales (PPI) que contemplan objetivos, estrategias y apoyos necesarios para cada estudiante. También realizan un trabajo fundamental con las familias, generando espacios de escucha, orientación y acompañamiento. Los profesionales destacaron que la inclusión en educación técnica tiene desafíos particulares, ya que requiere adaptar contenidos prácticos, talleres, laboratorios y proyectos, pero que es absolutamente posible y enriquecedora. La inclusión no es bajar expectativas, sino encontrar diferentes caminos para alcanzar aprendizajes significativos. Daniel Levy y Romina Rajchnudel fueron claros y dinámicos en su exposición, transmitiendo su experiencia y compromiso con una educación verdaderamente inclusiva. ORT ha logrado que estudiantes con discapacidad completen sus estudios secundarios técnicos y continúen estudios superiores o se inserten laboralmente. Esta charla me llegó especialmente porque estamos en ORT viviendo esta realidad todos los días. Ver cómo la escuela realmente se mueve para incluir a todos me hace sentir orgulloso de estar acá. Levy y Rajchnudel transmiten una pasión genuina por lo que hacen.",
     "reflexion": "Muy interesante y enriquecedora. Los profesionales fueron claros y dinámicos.",
-    "preguntas": [
-      "¿Qué tecnologías educativas usan para adaptar contenidos?",
-      "¿Cómo capacitan a los docentes en inclusión?",
-      "¿Qué desafíos tiene la inclusión en educación técnica?",
-      "¿Cómo trabajan con las familias de los estudiantes?"
-    ],
     "linkedin": "https://ar.linkedin.com/in/daniel-levy-0708411b",
     "instagram": "https://www.instagram.com/ortargentina/",
-    "web": "https://www.ort.edu.ar/"
+    "web": "https://www.ort.edu.ar/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué tecnologías educativas usan para adaptar contenidos?",
+        "respuesta": "soft educativos lectores de pantalla y pizarras digitales"
+      },
+      {
+        "pregunta": "¿Cómo capacitan a los docentes en inclusión?",
+        "respuesta": "con cursos talleres y acompañamiento de especialistas"
+      },
+      {
+        "pregunta": "¿Qué desafíos tiene la inclusión en educación técnica?",
+        "respuesta": "adaptar contenidos practicos en talleres y laboratorios"
+      },
+      {
+        "pregunta": "¿Cómo trabajan con las familias de los estudiantes?",
+        "respuesta": "con reuniones periodicas orientacion y contencion"
+      }
+    ]
   },
   {
     "titulo": "Construcción de equipos – Beatriz de Souza",
-"descripcion": "La charla fue guiada por Beatriz de Souza. Ella nació en Florianópolis, siempre sintió pasión por la escritura, la danza y las artes, especialmente las textiles y audiovisuales. Comenzó su carrera en marketing en São Paulo a los 20 años y desde 1996 trabajó en destacadas agencias de publicidad en Buenos Aires, construyendo marcas como Coca-Cola, Dove y Danone. Actualmente se desempeña como investigadora de mercado y Creative Planner. Desde 2021, trabaja en una EdTech capacitando a docentes y estudiantes en tecnología, y también entrena a jóvenes emprendedores. Es Licenciada en Comunicación Social, con formación en Psicología, Análisis del Discurso, Historia del Arte, psicoanálisis, PNL y Educación Mediática. A los 46 años descubrió su vocación docente, formándose en la Universidad de San Andrés y la Universidad de San Isidro. Hoy es docente en la UBA y titular en la USI. Cree en un futuro con múltiples perspectivas, en la inteligencia colectiva y en la sabiduría interna de cada persona. Con Bechi aprendimos a formar equipos de trabajo. Hablamos sobre la importancia de formar grupos diversos, donde haya personas con distintas habilidades y talentos. También hicimos una actividad de autoconocimiento, donde nos dio frases a la mitad y nosotros las tuvimos que completar según nuestros intereses. Al finalizar esa actividad hicimos un test online que contenía varias preguntas, a partir de ese test supimos que tipo de persona somos al trabajar en equipo. Luego en equipos tuvimos que inventar una idea de negocio en 10 minutos, usando nuestras distintas habilidades.",
+    "descripcion": "La charla fue guiada por Beatriz de Souza. Ella nació en Florianópolis, siempre sintió pasión por la escritura, la danza y las artes, especialmente las textiles y audiovisuales. Comenzó su carrera en marketing en São Paulo a los 20 años y desde 1996 trabajó en destacadas agencias de publicidad en Buenos Aires, construyendo marcas como Coca-Cola, Dove y Danone. Actualmente se desempeña como investigadora de mercado y Creative Planner. Desde 2021, trabaja en una EdTech capacitando a docentes y estudiantes en tecnología, y también entrena a jóvenes emprendedores. Es Licenciada en Comunicación Social, con formación en Psicología, Análisis del Discurso, Historia del Arte, psicoanálisis, PNL y Educación Mediática. A los 46 años descubrió su vocación docente, formándose en la Universidad de San Andrés y la Universidad de San Isidro. Hoy es docente en la UBA y titular en la USI. Cree en un futuro con múltiples perspectivas, en la inteligencia colectiva y en la sabiduría interna de cada persona. Con Bechi aprendimos a formar equipos de trabajo. Hablamos sobre la importancia de formar grupos diversos, donde haya personas con distintas habilidades y talentos. También hicimos una actividad de autoconocimiento, donde nos dio frases a la mitad y nosotros las tuvimos que completar según nuestros intereses. Al finalizar esa actividad hicimos un test online que contenía varias preguntas, a partir de ese test supimos que tipo de persona somos al trabajar en equipo. Luego en equipos tuvimos que inventar una idea de negocio en 10 minutos, usando nuestras distintas habilidades.",
     "reflexion": "Muy práctica y dinámica. Las actividades ayudaron a entender mejor nuestras fortalezas y cómo trabajar en equipo de forma efectiva.",
-    "preguntas": [
-      "¿Cómo se identifican las fortalezas de cada integrante?",
-      "¿Qué hacer cuando hay conflictos en el equipo?",
-      "¿Cómo se distribuyen roles en proyectos de impacto social?",
-      "¿Qué habilidades son clave para liderar equipos diversos?"
-    ],
     "linkedin": "https://ar.linkedin.com/in/elizabethdesouza",
     "instagram": "https://www.instagram.com/bechidesouza/",
-    "web": null
+    "web": null,
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Cómo se identifican las fortalezas de cada integrante?",
+        "respuesta": "con test de personalidad y autoevaluaciones"
+      },
+      {
+        "pregunta": "¿Qué hacer cuando hay conflictos en el equipo?",
+        "respuesta": "hablando abiertamente y buscando puntos en comun"
+      },
+      {
+        "pregunta": "¿Cómo se distribuyen roles en proyectos de impacto social?",
+        "respuesta": "definiendo roles claros segun fortalezas de cada uno"
+      },
+      {
+        "pregunta": "¿Qué habilidades son clave para liderar equipos diversos?",
+        "respuesta": "empatia comunicacion y adaptabilidad"
+      }
+    ]
   },
   {
     "titulo": "Explorando Mercado Libre",
     "descripcion": "Mercado Libre fue fundado el 2 de agosto de 1999 en Argentina por Marcos Galperin (junto a Hernán Kazah, Stelleo Passos Tolda y otros cofundadores de Stanford), quien desarrolló la idea mientras cursaba su MBA en la Universidad de Stanford, inspirándose en el modelo de eBay para crear una plataforma de comercio electrónico adaptada a América Latina. Comenzó operaciones en un garaje de Saavedra, Buenos Aires, cuando solo el 3% de Argentina tenía acceso a Internet, enfrentando inicialmente el desafío de la falta de confianza en las compras online. Con el tiempo, la empresa evolucionó desde un marketplace de subastas hasta un ecosistema completo que incluye Mercado Pago (lanzado en 2003 como solución de pagos seguros), Mercado Envíos (logística) y Mercado Crédito (financiación). En 2007 se convirtió en la primera empresa latinoamericana en cotizar en NASDAQ, consolidándose como líder del e-commerce en la región. Hoy opera en 18 países de América Latina, siendo Brasil su mercado más grande, y forma parte del top 100 de empresas más valiosas del NASDAQ, diferenciándose de Amazon por su enfoque regional, accesibilidad de precios y familiaridad con productos locales.",
     "reflexion": "Interesa especialmente cómo funciona Mercado Pago y la seguridad de pagos.",
-    "preguntas": [
-      "¿Cómo manejan la escalabilidad en eventos de alto tráfico?",
-      "¿Qué medidas de seguridad implementan en pagos?",
-      "¿Cómo funciona la estructura de squads en la práctica?",
-      "¿Qué tecnologías usan para IA y machine learning?"
-    ],
     "linkedin": "https://www.linkedin.com/company/mercadolibre/",
     "instagram": "https://www.instagram.com/mercadolibre/",
-    "web": "https://www.mercadolibre.com.ar/"
+    "web": "https://www.mercadolibre.com.ar/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Cómo manejan la escalabilidad en eventos de alto tráfico?",
+        "respuesta": "con arquitectura en la nube y servidores q escalan automatico"
+      },
+      {
+        "pregunta": "¿Qué medidas de seguridad implementan en pagos?",
+        "respuesta": "encriptacion de datos verificacion en dos pasos y monitoreo"
+      },
+      {
+        "pregunta": "¿Cómo funciona la estructura de squads en la práctica?",
+        "respuesta": "equipos autonomos multidisciplinarios q trabajan por producto"
+      },
+      {
+        "pregunta": "¿Qué tecnologías usan para IA y machine learning?",
+        "respuesta": "machine learning para recomendaciones y deteccion de fraude"
+      }
+    ]
   },
   {
     "titulo": "Globant",
     "descripcion": "Globant fue fundada en 2003 en Buenos Aires, Argentina, por cuatro ingenieros de software amigos que se juntaron en un bar: Martín Migoya, Guibert Englebienne, Martín Umarán y Néstor Nocetti, quienes iniciaron la empresa con apenas $5,000 durante la plena crisis económica argentina de 2002. Su visión era crear oportunidades para que talentos latinoamericanos desarrollaran tecnología de clase mundial y compitieran en mercados desarrollados, llevando servicios de software innovador desde Argentina hacia el resto del mundo. Su primer gran cliente fue EMC Square, seguido por LastMinute.com en el Reino Unido, lo que les permitió pasar de facturar $200,000 en su primer año a $3 millones en el segundo, expandiendo su equipo de 10 a 70 personas en solo seis meses. En 2014, Globant hizo su IPO en la Bolsa de Valores de Nueva York (NYSE: GLOB), convirtiéndose en un unicornio argentino, y desde entonces no ha parado de crecer. Hoy opera en más de 34 países con más de 27,000 empleados (llamados Globers), trabajando para clientes como Google, Electronic Arts y Santander, ofreciendo transformación digital a través de ingeniería, innovación, diseño e inteligencia artificial. La empresa se diferencia por su cultura única que enfatiza creatividad, colaboración y aprendizaje continuo, habiendo sido reconocida como líder mundial en servicios de mejora de experiencia del cliente y caso de estudio en Harvard, MIT y Stanford.",
-    "preguntas": [
-      "¿Cómo funciona el modelo de Studios?",
-      "¿Qué rol juega la IA en sus proyectos actuales?",
-      "¿Cómo seleccionan las startups para invertir?",
-      "¿Qué consejo dan a jóvenes que quieren entrar a tech?"
-    ],
     "linkedin": "https://www.linkedin.com/company/globant",
     "instagram": "https://www.instagram.com/globant/",
-    "web": "https://www.globant.com"
+    "web": "https://www.globant.com",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Cómo funciona el modelo de Studios?",
+        "respuesta": "equipos especializados por industria como gaming o finanzas"
+      },
+      {
+        "pregunta": "¿Qué rol juega la IA en sus proyectos actuales?",
+        "respuesta": "en automatizacion personalizacion y analisis predictivo"
+      },
+      {
+        "pregunta": "¿Cómo seleccionan las startups para invertir?",
+        "respuesta": "tienen fondo de inversion y programa de aceleracion"
+      },
+      {
+        "pregunta": "¿Qué consejo dan a jóvenes que quieren entrar a tech?",
+        "respuesta": "aprender siempre colaborar y no tener miedo a equivocarse"
+      }
+    ]
   },
   {
     "titulo": "Gabriel Puppo – AWS",
     "descripcion": "Gabriel Puppo es un profesional argentino con más de 15 años de experiencia en consultoría de negocios que actualmente trabaja en Amazon Web Services (AWS) como Startup Business Developer (Responsable de Desarrollo de Negocios para Startups) en Argentina. Su rol en AWS se enfoca en trabajar estrechamente con el ecosistema de startups y emprendimientos tecnológicos, ayudándolos a aprovechar las soluciones de cloud computing y servicios en la nube que ofrece Amazon para escalar sus negocios. Puppo se formó en UADE (Universidad Argentina de la Empresa) y ha desarrollado su carrera en empresas nacionales e internacionales, adquiriendo expertise en transformación digital y estrategias de negocio basadas en tecnología. En su posición actual, Puppo se especializa en conectar emprendedores y startups con las herramientas de AWS, brindando consultoría sobre arquitectura cloud, infraestructura como servicio (IaaS), y cómo implementar soluciones tecnológicas escalables y eficientes para impulsar el crecimiento de nuevos negocios en América Latina. Su trabajo involucra identificar oportunidades de negocio, diseñar estrategias de adopción tecnológica y acompañar a las empresas emergentes en su proceso de digitalización y expansión utilizando la plataforma AWS.",
     "reflexion": "Sería interesante conocer casos concretos de startups que crecieron con AWS y qué estrategias cloud son más efectivas.",
-    "preguntas": [
-      "¿Qué debería tener en cuenta una startup desde el día 1 para escalar?",
-      "¿Qué proyectos entusiasman más desde AWS?",
-      "¿Qué errores son comunes al usar nube por primera vez?",
-      "¿Cómo será el impacto de la IA generativa en startups?"
-    ],
     "linkedin": "https://ar.linkedin.com/in/gabrielpuppo",
     "instagram": "https://www.instagram.com/gabrielpuppo/",
-    "web": "https://aws.amazon.com/"
+    "web": "https://aws.amazon.com/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué debería tener en cuenta una startup desde el día 1 para escalar?",
+        "respuesta": "pensar en escalabilidad desde el inicio y usar servicios cloud"
+      },
+      {
+        "pregunta": "¿Qué proyectos entusiasman más desde AWS?",
+        "respuesta": "proyectos de salud educacion y sustentabilidad"
+      },
+      {
+        "pregunta": "¿Qué errores son comunes al usar nube por primera vez?",
+        "respuesta": "sobredimensionar recursos y no monitorear costos"
+      },
+      {
+        "pregunta": "¿Cómo será el impacto de la IA generativa en startups?",
+        "respuesta": "va a democratizar el acceso a tecnologia avanzada"
+      }
+    ]
   },
   {
     "titulo": "Gustavo Calicchio – BlueberryFox",
     "descripcion": "Gustavo Calicchio es un especialista argentino en innovación y transformación cultural que actualmente se desempeña como socio fundador de BlueberryFox | People & Innovation Hub, una consultora que trabaja con empresas en procesos de cambio organizacional y estrategias de innovación​. Junto a su socia María Victoria Bernárdez, fundó BlueberryFox con el objetivo de ayudar a organizaciones a transformar su cultura corporativa y desarrollar capacidades de innovación continua, apoyándose en herramientas y metodologías de las ciencias del comportamiento y neurociencia cognitiva​. Calicchio se especializa en diseñar e implementar programas de transformación cultural, modelos de trabajo híbrido y estrategias para retener talento en contextos de alta competitividad, particularmente en el sector tecnológico y empresas en rápido crecimiento​. Ha trabajado con clientes de diversos sectores, incluyendo startups tecnológicas y empresas establecidas como Laboratorios Bagó, ayudándolas a llevar la innovación a cada rincón de la organización y a adaptarse a los nuevos desafíos del mundo laboral post-pandemia​. Como coach y consultor, Calicchio desarrolla dinámicas interactivas y talleres sobre temas como propósito organizacional, valores corporativos, inteligencia colectiva y nuevos modelos de trabajo, habiendo participado en eventos empresariales de alto nivel como Argenthink de ACDE​. Su enfoque combina experiencia práctica en gestión del cambio con fundamentos científicos del comportamiento humano para ayudar a las empresas a encontrar su nuevo normal y evolucionar constantemente en un entorno de negocios cada vez más dinámico​.",
     "reflexion": "Inspirador su enfoque sobre liderazgo en proyectos sociales. Hubiese sido útil conocer más casos prácticos de cambio organizacional.",
-    "preguntas": [
-      "¿Qué cualidades destacan en un líder joven?",
-      "¿Qué no puede faltar para crear cultura de innovación?",
-      "¿Cómo mantener motivado un equipo social?",
-      "¿Cómo escalar impacto sin perder esencia?"
-    ],
     "linkedin": "https://ar.linkedin.com/in/gustavocalicchio",
     "instagram": "https://www.instagram.com/gustavocalicchio/",
-    "web": "https://blueberryfox.net/"
+    "web": "https://blueberryfox.net/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué cualidades destacan en un líder joven?",
+        "respuesta": "pasion por el impacto social y capacidad de escuchar"
+      },
+      {
+        "pregunta": "¿Qué no puede faltar para crear cultura de innovación?",
+        "respuesta": "valores claros participacion del equipo y experimentacion"
+      },
+      {
+        "pregunta": "¿Cómo mantener motivado un equipo social?",
+        "respuesta": "con reconocimiento espacios de descanso y proposito claro"
+      },
+      {
+        "pregunta": "¿Cómo escalar impacto sin perder esencia?",
+        "respuesta": "manteniendo valores claros y midiendo impacto constantemente"
+      }
+    ]
   },
   {
     "titulo": "Alfonso Amat – CellRep Bio",
     "descripcion": "Alfonso Amat es un emprendedor y ejecutivo tecnológico argentino con 28 años de experiencia que actualmente se desempeña como CEO y co-fundador de CellRep Bio, una startup de biotecnología que utiliza inteligencia artificial para revolucionar las terapias celulares. Ingeniero Electrónico egresado del ITBA con postgrado en Telecomunicaciones, Amat construyó su carrera gestionando proyectos de IT desde los 22 años y pionero en servicios de data center en América Latina a los 24 para una startup respaldada por Fidelity Investments. Trabajó en grandes corporaciones como Accenture, Telecom Personal y Telefónica (como Head de Product Marketing donde multiplicó el negocio convergente por veinte en cinco años), liderando proyectos en Argentina, Brasil, España, Alemania, Inglaterra, Suiza, Holanda y Uruguay. En 2012 fundó IAMAT, desarrollando sistemas de IA e interacción en tiempo real para clientes como Verizon, el Comité Olímpico y la presencia digital global de Lionel Messi, empresa que fue adquirida por Globant en 2018. Posteriormente trabajó durante seis años en AWS apoyando el crecimiento del ecosistema de startups en América Latina, antes de co-fundar CellRep para combinar su pasión por la tecnología y la biología. CellRep desarrolla una plataforma impulsada por IA que descubre y valida compuestos para optimizar la función celular mediante reprogramación celular dinámica sin edición genética, abordando limitaciones críticas de las terapias CAR-T actuales (baja eficacia en tumores sólidos, largos tiempos de fabricación y costos prohibitivos), con el objetivo de hacer la medicina personalizada escalable, comenzando con terapias contra el cáncer y expandiéndose hacia aplicaciones de longevidad.",
     "reflexion": "Muy inspiradora la combinación de biología y tecnología. Refuerza la idea de que ciencia y tecnología juntas pueden cambiar el futuro.",
-    "preguntas": [
-      "¿Qué lo inspiró a crear CellRep Bio?",
-      "¿Cuál es el mayor desafío para hacer terapias accesibles?",
-      "¿Qué aprendizajes de AWS aplica hoy?",
-      "¿Qué consejo daría a jóvenes que quieren emprender en ciencia?"
-    ],
     "linkedin": "https://ar.linkedin.com/in/alfonsoamat",
     "instagram": "https://www.instagram.com/alfonsoamat/",
-    "web": "https://cellrep.bio/"
-  }
+    "web": "https://cellrep.bio/",
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué lo inspiró a crear CellRep Bio?",
+        "respuesta": "ver el impacto de tecnologia en salvar vidas reales"
+      },
+      {
+        "pregunta": "¿Cuál es el mayor desafío para hacer terapias accesibles?",
+        "respuesta": "los costos altisimos de produccion y tiempos largos"
+      },
+      {
+        "pregunta": "¿Qué aprendizajes de AWS aplica hoy?",
+        "respuesta": "experiencia en escalabilidad y trabajo con startups"
+      },
+      {
+        "pregunta": "¿Qué consejo daría a jóvenes que quieren emprender en ciencia?",
+        "respuesta": "combinar pasion con aprendizaje constante y buscar mentores"
+      }
+    ]
+  },
+  {
+    "titulo": "Cultura que escala: el alma detrás del crecimiento",
+    "descripcion": "La presentación 'Cultura que escala: el alma detrás del crecimiento' se centró en comprender cómo la cultura organizacional es el verdadero motor detrás del crecimiento sostenible de una empresa. Participaron profesionales con amplia trayectoria: Josefina Chausovsky (People & Culture Expert, Lic. en Psicología, 20 años en áreas de People en empresas como Globant y Axialent), Jonathan Saiegh (Founder de VICI), Sergio Pivetti (Líder de AI en Tiendanube) y Alephee (Founder & COO, especializado en talento y cultura). \n\nLa charla presentó la cultura como un sistema vivo: es un conjunto de creencias, valores y convicciones compartidas que moldean comportamientos y decisiones, definiendo cómo se hacen las cosas para lograr el éxito (según William Schneider). Se reforzó la idea de que la cultura tiene un impacto directo en la estrategia, citando frases como 'La cultura se come a la estrategia en el desayuno' (Drucker) o 'Tu cultura es tu marca' (Hsieh). También se mencionó que el 75% de los procesos empresariales fracasan por problemas culturales.\n\nLos expositores explicaron que una estrategia de negocio sin una estrategia de cultura es como una multitud moviéndose sin dirección clara; en cambio, una cultura alineada crea coordinación y foco, como pájaros en equilibrio sobre un cable. Para lograr que la cultura escale, destacaron cuatro claves: (1) Tecnología y data como aliados para medir, tomar decisiones y escalar impacto; (2) Mentalidad ágil y mejora continua mediante escucha constante; (3) Enfoque en la sostenibilidad del negocio, identificando dolores y entendiendo cómo la cultura puede potenciarlos; (4) Sponsorship del directorio y partnership de los líderes para acelerar cambios. \n\nLa presentación cerró con una frase que sintetiza el mayor desafío: 'Cambiar la tecnología es fácil, cambiar la cultura es difícil' (Daniel Nofal). Me resultó valioso ver cómo, más allá de metodologías y frameworks, la cultura es finalmente un trabajo humano, intencional y sostenido que define si una organización crece ordenadamente o se dispersa.",
+    "reflexion": "La charla dejó claro que muchas empresas quieren crecer, pero subestiman el poder —y la dificultad— de trabajar realmente en su cultura. Me hubiese gustado que profundizaran más en ejemplos prácticos de empresas que lograron escalar gracias a una cultura sólida, para entender mejor cómo se ve ese proceso día a día.",
+    "linkedin": null,
+    "instagram": null,
+    "web": null,
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué prácticas concretas permiten que la escucha continua se convierta en mejora continua en empresas grandes?",
+        "respuesta": "usando dashboards metricas de engagement y encuestas"
+      },
+      {
+        "pregunta": "¿Cómo puede un equipo de People medir realmente el impacto cultural usando data?",
+        "respuesta": "cuando hay rotacion alta y equipos desalineados"
+      },
+      {
+        "pregunta": "¿Qué señales muestran que la cultura de una empresa no está alineada con su estrategia de negocio?",
+        "respuesta": "comunicar constantemente modelar valores y dar feedback"
+      },
+      {
+        "pregunta": "¿Qué rol específico debería tener el liderazgo medio para sostener una cultura que escala?",
+        "respuesta": "escucha activa para identificar necesidades reales"
+      }
+    ]
+  },
+  {
+    "titulo": "Cultura Alephee",
+    "descripcion": "Alephee presentó en detalle la cultura que guía su forma de trabajar y de construir producto. Su propósito central es transformar la manera en que se hace comercio electrónico, conectando a marcas, distribuidores y vendedores para que el proceso sea más simple, transparente y eficiente. Aunque se apoyan en tecnología, remarcan que el motor del cambio son siempre las personas. La cultura combina dos elementos clave: un fuerte espíritu de crecimiento e innovación constante, y una mirada profundamente humana basada en el bienestar, la confianza y la colaboración real.\n\nTrabajan con energía, responsabilidad y empatía, convencidos de que el éxito no surge de competir internamente sino de construir juntos. Su cultura se sostiene en seis valores principales: (1) **Ponemos al cliente primero**, escuchando sus necesidades y priorizando acciones que generen impacto real (como cambiar la fecha de su fiesta anual para acompañar un lanzamiento importante o desarrollar funciones urgentes que terminan beneficiando a otros clientes). (2) **Trabajamos en equipo**, colaborando sin jerarquías rígidas ni tareas que “no corresponden”, ejemplificado por el trabajo conjunto entre Ventas, OnBoarding, Producto y Soporte para acelerar la integración de Shopee y sumar 100 nuevos clientes. (3) **Innovamos para simplificar**, animándose a cuestionar procesos y a resolver problemas complejos con soluciones simples, como la implementación de IA para automatizar catálogos y la creación de un bot de soporte. (4) **Actuamos con autonomía y responsabilidad**, confiando en el criterio profesional de cada persona. (5) **Crecemos con humanidad**, combinando ambición con cuidado real por el bienestar del equipo, organizando actividades de integración y priorizando la vida personal cuando corresponde (como cuando un líder fue “obligado” a priorizar el nacimiento de su hijo). (6) **Damos y recibimos feedback con respeto**, mediante encuentros trimestrales donde el feedback fluye tanto del líder al colaborador como del colaborador al líder, promoviendo una comunicación abierta y libre de jerarquías tradicionales.\n\nEn conjunto, Alephee muestra una cultura donde la innovación convive con la empatía, y donde cada decisión —sea tecnológica, estratégica o relacional— busca equilibrar impacto, simplicidad y humanidad.",
+    "reflexion": "Lo que más me llamó la atención es cómo Alephee logra conectar crecimiento acelerado con cuidado genuino por las personas. Muchas empresas dicen valorar el bienestar, pero pocas lo demuestran con acciones concretas como priorizar a un colaborador que está por ser padre o generar espacios reales de encuentro entre equipos. Me hubiera gustado que profundizaran más en cómo sostienen esta cultura a medida que escalan y crecen en distintos países.",
+    "linkedin": null,
+    "instagram": null,
+    "web": null,
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué mecanismos utilizan para asegurar que sus valores se mantengan cuando el equipo sigue creciendo?",
+        "respuesta": "resolver problemas rapido iterar y mejorar siempre"
+      },
+      {
+        "pregunta": "¿Cómo evalúan el impacto de sus iniciativas de IA en la experiencia del cliente?",
+        "respuesta": "confianza autonomia trabajo colaborativo y crecimiento"
+      },
+      {
+        "pregunta": "¿Qué prácticas permiten mantener la autonomía sin perder alineación estratégica?",
+        "respuesta": "con mentorias feedback constante y oportunidades de aprender"
+      },
+      {
+        "pregunta": "¿Cómo manejan los desacuerdos en un modelo donde el feedback es tan horizontal?",
+        "respuesta": "balance entre ambicion profesional y bienestar personal"
+      }
+    ]
+  },
+  {
+    "titulo": "Cultura Tiendanube",
+    "descripcion": "La cultura de Tiendanube (Nuvemshop) se construye sobre su propósito fundacional: impulsar a emprendedores y PyMEs desde 2011, reduciendo las barreras del comercio electrónico en América Latina. Con más de 1.500 empleados en 5 países y más de 180.000 tiendas activas, la empresa busca combinar impacto regional con una cultura organizacional sólida, clara y exigente.\n\nSu cultura se apoya en principios como excelencia, autonomía, confianza y transparencia. Promueven un ambiente de alta exigencia en el que cada persona tiene protagonismo real y la responsabilidad de seguir aprendiendo. Los valores centrales que guían su manera de trabajar incluyen: poner al cliente en el centro, ejecutar con excelencia, asumir un compromiso profundo, pensar en grande, decir lo que se piensa con honestidad, aprender de los errores y trabajar en equipo.\n\nLa presentación también es explícita respecto de lo que Tiendanube no es: no toleran acoso ni discriminación, evitan el micromanagement, tienen tolerancia cero a la corrupción y priorizan la toma de decisiones basada en datos antes que en opiniones personales. Esa claridad sobre lo que sí y lo que no forman parte de la cultura permite sostener un estándar alto y coherente a medida que la empresa escala.\n\nEn definitiva, Tiendanube propone una cultura de alto rendimiento orientada a transformar el e-commerce en la región y a potenciar a quienes emprenden, combinando ambición, transparencia y enfoque en el cliente.",
+    "reflexion": "Me llamó la atención la claridad y firmeza con la que Tiendanube define tanto sus valores como sus límites culturales. Muchas empresas hablan de transparencia, pero pocas establecen tan claramente lo que no se tolera. La combinación de autonomía, exigencia y honestidad radical parece desafiante, pero también muy poderosa si se sostiene de manera coherente. Me hubiera gustado conocer más ejemplos concretos de cómo viven estos valores en el día a día.",
+    "linkedin": null,
+    "instagram": null,
+    "web": null,
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué prácticas utilizan para que la autonomía no derive en desalineación?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      },
+      {
+        "pregunta": "¿Cómo se sostiene una cultura de alto rendimiento sin comprometer el bienestar de las personas?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      },
+      {
+        "pregunta": "¿Qué mecanismos concretos aseguran que las decisiones se tomen basadas en datos?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      },
+      {
+        "pregunta": "¿Cómo manejan los errores y aprendizajes en un entorno donde la ejecución con excelencia es un valor central?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      }
+    ]
+  },
+  {
+    "titulo": "Sector Energético y Políticas DEI",
+    "descripcion": "La charla reunió a representantes del sector energético para conversar sobre las características de la industria y las estrategias de Diversidad, Equidad e Inclusión (DEI) que se están implementando. Participaron la Lic. Gabriela González (geóloga de la UBA y consultora en Oil & Gas), la geóloga Abigail Misonischnik (UNC, PMO en Vista Energy), la Lic. María Clara Ambroggio (Recursos Humanos en Vista Energy) y Belén Doce (estudiante de Geología en la UBA y pasante en Tecpetrol).\n\nDurante el encuentro se describió el sector energético como un ámbito históricamente técnico y predominantemente masculino, donde el ingreso y la permanencia de mujeres y diversidades ha sido un desafío. Las invitadas explicaron que, aunque la participación femenina en geología, ingeniería y O&G ha crecido, todavía existen brechas en representación, ascenso y reconocimiento. Las empresas comenzaron a implementar políticas DEI más estructuradas, con foco en atraer talento diverso, generar entornos seguros y promover carreras más equitativas.\n\nSe mencionaron iniciativas como: programas de pasantías para estudiantes mujeres, acompañamiento a profesionales jóvenes, capacitaciones en sesgos inconscientes, políticas de bienestar, protocolos de abordaje ante situaciones de discriminación y esfuerzos para visibilizar el rol femenino en áreas técnicas. Recursos Humanos cumple un rol clave en integrar estas acciones a la estrategia empresarial, pero también se remarcó la importancia del liderazgo: sin sponsors internos, la cultura no cambia. Las geólogas compartieron experiencias personales sobre el trabajo en campo, el desafío de ganarse espacios en equipos mayoritariamente masculinos y la importancia de contar con redes de apoyo.\n\nEn conjunto, la conversación mostró que el sector energético está avanzando en DEI, pero aún enfrenta barreras culturales profundas. La clave está en sostener políticas reales, medir impacto y seguir construyendo equipos diversos que aporten miradas nuevas a una industria que necesita transformarse.",
+    "reflexion": "Lo que más me impactó fue ver cómo, incluso en sectores tan tradicionales como el energético, empieza a haber una conciencia real sobre la importancia de la diversidad. Las historias personales de las geólogas mostraron que el cambio no es solo de políticas, sino también de experiencias cotidianas. Me hubiera gustado que profundizaran más en métricas concretas de avance y en cómo las empresas miden la efectividad de sus iniciativas DEI.",
+    "linkedin": {
+      "gabriela_gonzalez": "LinkedIn+1",
+      "abigail_misonischnik": "LinkedIn+1",
+      "maria_clara_ambroggio": "LinkedIn+1",
+      "belen_doce": "LinkedIn"
+    },
+    "instagram": null,
+    "web": null,
+    "preguntas_respuestas": [
+      {
+        "pregunta": "¿Qué indicadores permiten evaluar si las políticas DEI realmente están generando impacto en el sector energético?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      },
+      {
+        "pregunta": "¿Cuáles son hoy las principales barreras para que más mujeres y diversidades ocupen roles técnicos o de liderazgo?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      },
+      {
+        "pregunta": "¿Cómo se pueden fortalecer los programas de acompañamiento y mentorías para estudiantes o profesionales jóvenes en O&G?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      },
+      {
+        "pregunta": "¿Qué acciones concretas pueden tomar las empresas para reducir sesgos en procesos de selección y promoción?",
+        "respuesta": "Información no especificada en detalle durante la charla presentada."
+      }
+    ]
+  },{
+  "titulo": "Vanesa Kolodziej",
+  "descripcion": "Vanesa Kolodziej es una emprendedora e inversora argentina con una trayectoria clave en el ecosistema tecnológico y de startups de Latinoamérica. Trabaja desde hace años en tecnología, marketing y venture capital, creando fondos, impulsando empresas nuevas y guiando a emprendedores e inversores para que puedan escalar, validar sus mercados y obtener financiamiento. Fue parte del lanzamiento de Vitality Argentina con campañas de alto impacto y trabajó en Wellness Services explorando soluciones tecnológicas para el bienestar. También fue socia de Xpand Ventures, el fondo de inversión de Clarín, y previamente cofundó Nazca Ventures, uno de los primeros fondos de VC de la región. Fundó además Palermo Valley, una comunidad que conectó a emprendedores, desarrolladores e inversores a través de eventos y encuentros en varios países. Estudió Ciencia Política en la Universidad de San Andrés con beca completa y también cursó en un colegio internacional en Canadá. Como mentora, acompañó a más de cien startups en Start-Up Chile y fue jurado en premios de innovación del MIT. Hoy es reconocida como una de las pioneras del venture capital en Latinoamérica y una figura clave en el crecimiento del ecosistema emprendedor regional.",
+  "reflexion": "La charla fue muy motivadora. Se nota que Vanesa combina experiencia real, visión práctica y un compromiso enorme con la comunidad emprendedora. Nos dejó la sensación de que animarse y construir algo propio, incluso desde cero, es totalmente posible si uno se rodea, aprende y se mantiene curioso.",
+  "linkedin": "https://www.linkedin.com/in/vanesakolodziej/",
+  "instagram": "https://www.instagram.com/vanesakolodziej/",
+  "web": "https://palermovalley.com/",
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cómo empezaste en el mundo del venture capital y qué te motivó a dedicarte a invertir en startups?",
+      "respuesta": "Arrancó impulsando proyectos propios y luego vio que podía generar más impacto ayudando a otros a escalar sus ideas a través de inversión y acompañamiento."
+    },
+    {
+      "pregunta": "¿Cuál fue el proyecto o startup que más te sorprendió de todos los que acompañaste?",
+      "respuesta": "Destacó varios, especialmente aquellos que lograron crecer rápido validando un problema real en el mercado."
+    },
+    {
+      "pregunta": "¿Qué cualidades buscás en un emprendedor cuando decidís apoyarlo con inversión o mentoría?",
+      "respuesta": "Busca equipos comprometidos, que ejecuten bien, aprendan rápido y tengan una visión clara del problema que quieren resolver."
+    },
+    {
+      "pregunta": "¿Cómo ves el futuro de la innovación en Latinoamérica en sectores como biotecnología o inteligencia artificial?",
+      "respuesta": "Lo ve con muchísimo potencial, especialmente si la región combina talento técnico con apoyo a la investigación y acceso a capital."
+    },
+    {
+      "pregunta": "¿Qué consejo le darías a un estudiante que sueña con emprender pero no sabe por dónde empezar?",
+      "respuesta": "Empezar chico, probar ideas, sumarse a comunidades tech y rodearse de gente que ya esté creando cosas."
+    }
+  ]
+}
+
 ]
