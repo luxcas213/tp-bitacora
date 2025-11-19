@@ -22,6 +22,8 @@ export default function BitacoraCarousel({ charlas }: BitacoraCarouselProps) {
   const [direction, setDirection] = useState<'left' | 'right' | null>(null);
   const [isAnimating, setIsAnimating] = useState(false);
   const thumbnailRefs = useRef<(HTMLButtonElement | null)[]>([]);
+  const touchStartX = useRef<number>(0);
+  const touchEndX = useRef<number>(0);
 
   const goToNext = () => {
     if (isAnimating) return;
@@ -80,6 +82,27 @@ export default function BitacoraCarousel({ charlas }: BitacoraCarouselProps) {
       });
     }
   }, [currentIndex]);
+
+  // Touch handlers for swipe
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+  };
+
+  const handleTouchMove = (e: React.TouchEvent) => {
+    touchEndX.current = e.touches[0].clientX;
+  };
+
+  const handleTouchEnd = () => {
+    if (touchStartX.current - touchEndX.current > 75) {
+      // Swipe left - go to next
+      goToNext();
+    }
+    
+    if (touchStartX.current - touchEndX.current < -75) {
+      // Swipe right - go to previous
+      goToPrev();
+    }
+  };
 
   const currentCharla = charlas[currentIndex];
 
@@ -159,7 +182,12 @@ export default function BitacoraCarousel({ charlas }: BitacoraCarouselProps) {
       </button>
 
       {/* Main Slide - Full Screen with fixed height */}
-      <div className="flex-1 flex items-center justify-center overflow-hidden py-2 sm:py-6 md:py-8 px-2 sm:px-4">
+      <div 
+        className="flex-1 flex items-center justify-center overflow-hidden py-2 sm:py-6 md:py-8 px-2 sm:px-4"
+        onTouchStart={handleTouchStart}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
+      >
         <div 
           className={`bg-white rounded-lg border border-[#E6E6E6] p-3 sm:p-6 md:p-8 lg:p-12 shadow-sm w-full max-w-5xl h-[calc(100vh-100px)] sm:h-[calc(100vh-160px)] md:h-[calc(100vh-180px)] flex flex-col transition-all duration-300 ${
             direction === 'left' ? 'animate-slideOutLeft' : 
